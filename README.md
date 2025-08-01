@@ -318,5 +318,3 @@ If you use this work in academic research, please cite:
 ---
 
 **"Transforming oscillatory chaos into spectral harmony through configurable window design"** 🌊➡️📊
-
-**Status: Research Framework** | **Applications: Universal** | **License: MIT**
