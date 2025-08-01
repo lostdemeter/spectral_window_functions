@@ -84,6 +84,7 @@ pyramid_sum += (sinc_val ** 2) / layer
 
 When applied to the Riemann explicit formula for prime counting, all window functions achieve **sub-4% accuracy**:
 
+```
 Spectral Window Function Comparison
 ================================================================================
 n		Actual		Sinc		Triangle	Gaussian	Staircase	Pyramid
@@ -107,6 +108,7 @@ Best performing window: TRIANGLE (3.905% error)
 
 Spectral filtering demonstrates configurable enhancement
 of mathematical approximations through window function design.
+```
 
 *Remarkable convergence: All window types achieve near identical performance, indicating robust mathematical framework.*
 
